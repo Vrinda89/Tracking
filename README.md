@@ -25,6 +25,6 @@ Dashboard
 
 Tracking Screen
 
-[![device-2022-05-29-135724](https://user-images.githubusercontent.com/19589195/170864730-ad7cf9f3-6746-4b40-a689-df034743bd4a.png)](https://github.com/Vrinda89/Tracking/blob/de1c8997d3ef49be425fcac252e51ba1f6031e24/Screenshot_20230516_011221.png)
+[[![device-2022-05-29-135724](https://user-images.githubusercontent.com/19589195/170864730-ad7cf9f3-6746-4b40-a689-df034743bd4a.png)](https://github.com/Vrinda89/Tracking/blob/de1c8997d3ef49be425fcac252e51ba1f6031e24/Screenshot_20230516_011221.png)](https://github.com/Vrinda89/Tracking/blob/de1c8997d3ef49be425fcac252e51ba1f6031e24/Screenshot_20230516_011221.png)
 
 
