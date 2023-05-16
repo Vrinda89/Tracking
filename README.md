@@ -4,13 +4,27 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Project for tracking vehicle location.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Components
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Architecture  : CLEAN
+ 
+ State Management : BLoc
+ 
+ Functionalities Added :
+ 
+   - Vehicle tracking with mock location 
+   - High light vehicle location with a marker 
+ 
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Events List Screen
+
+![device-2022-05-29-135635]([https://user-images.githubusercontent.com/19589195/170864707-4c1ee881-3678-4156-9296-e04364341eef.png](https://github.com/Vrinda89/Tracking/blob/739162bc090822fe2ea61711c9cf2896216f0624/Screenshot_20230516_011221.png))
+
+Events Details Screen
+
+![device-2022-05-29-135724](https://user-images.githubusercontent.com/19589195/170864730-ad7cf9f3-6746-4b40-a689-df034743bd4a.png)
+
+
